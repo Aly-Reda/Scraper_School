@@ -7,7 +7,7 @@
 
 ## Installation
 
-python 3.8
+Python 3.8
 
 [![install python with pip](https://img.youtube.com/vi/4Rx_JRkwAjY/0.jpg)](https://www.youtube.com/watch?v=4Rx_JRkwAjY)
 
@@ -17,6 +17,7 @@ pip install scrapy
 pip install pandas 
 pip install pyquery
 pip install selenium
+pip install random_user_agent
 ```
 
 
