@@ -4,7 +4,7 @@
 1. Basic HTML
 2. Basic Python
 
-## Installation
+## Installation :hammer:
 
 Python 3.8
 
@@ -20,7 +20,7 @@ pip install random_user_agent
 ```
 
 
-## Frameworks Documentation
+## Frameworks Documentation :orange_book:
 1. [Scrapy](https://docs.scrapy.org/en/latest/)
 2. [Requests](https://selenium-python.readthedocs.io/)
 3. [Pyquery](https://requests.readthedocs.io/en/master/)
@@ -28,7 +28,7 @@ pip install random_user_agent
 5. [Pandas](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)
 
 
-## Websites
+## Websites :rocket:
 0. [Quotes to Scrape](https://quotes.toscrape.com/)
 1. [Glassdoor](https://www.glassdoor.com/Reviews/IBM-Egypt-Reviews-EI_IE354.0,3_IL.4,9_IN69.htm)
 2. [Elmenus](https://www.elmenus.com/)
@@ -48,7 +48,7 @@ pip install random_user_agent
 
 
 
-## Useful Chrome Extensions
+## Useful Chrome Extensions :bookmark:
 1. [Quick Javascript Switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje?hl=en)
 2. [Json Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 3. [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en)
