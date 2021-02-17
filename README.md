@@ -9,6 +9,10 @@
 8- [anmeld-haandvaerker](https://www.anmeld-haandvaerker.dk/resultater?search=anl%C3%A6gsgartner)
 9- [tadawul](https://www.tadawul.com.sa/wps/portal/tadawul/market-participants/issuers/issuers-directory/company-details/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Tx8nD0MLIy83V1DjA0czVx8nYP8PI0MDAz0I4EKzBEKDEJDLYEKjJ0DA11MjQzcTfW99KPSc_KTIGZllJQUWKkaqBqUJKYklpfmqBroRyXn5xYk5lUGV-Ym5QMVGQGBfjghUwuyg3LKKh0VASPsaGM!/#chart_tab2)
 10- [tripadvisor](https://www.tripadvisor.com/VacationRentals-g303855-Reviews-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai-Vacation_Rentals.html)
+11- [easydata](https://www.easydata.co.za/dataset/BER/folder/BER-TREE_AA/)
+12- [opendiary](https://www.opendiary.com/)
+
+
 
 
 
