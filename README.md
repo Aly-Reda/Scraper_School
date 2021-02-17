@@ -1,4 +1,5 @@
 # Scraper_School
+## Websites
 0- [Quotes to Scrape](https://quotes.toscrape.com/)
 1- [Indeed](https://uk.indeed.com/cyber-AND-security-jobs-in-London,-Greater-London)
 2- [Glassdoor](https://www.glassdoor.com/Reviews/IBM-Egypt-Reviews-EI_IE354.0,3_IL.4,9_IN69.htm)
@@ -18,7 +19,7 @@
 
 
 
-Useful Chrome Extensions
+## Useful Chrome Extensions
 1- [Quick Javascript Switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje?hl=en)
 2- [Json Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 3- [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en)
