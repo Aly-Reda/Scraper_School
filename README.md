@@ -1,5 +1,5 @@
-# Scraper_School
-**this is the complete guide to know how to scrape almost any website**
+# Scraper School
+## **This is the complete guide to know how to scrape almost any website**
 
 ## Prerequisites
 1. Basic HTML
