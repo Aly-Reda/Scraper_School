@@ -1,6 +1,33 @@
 # Scraper_School
 **this is the complete guide to know how to scrape almost any website**
 
+## Prerequisites
+1. Basic HTML
+2. Basic Python
+
+## Installation
+
+python 3.8
+
+[![install python with pip](https://img.youtube.com/vi/4Rx_JRkwAjY/0.jpg)](https://www.youtube.com/watch?v=4Rx_JRkwAjY)
+
+
+```bash
+pip install scrapy
+pip install pandas 
+pip install pyquery
+pip install selenium
+```
+
+
+## Frameworks Documentation
+1. [Scrapy](https://docs.scrapy.org/en/latest/)
+2. [Requests](https://selenium-python.readthedocs.io/)
+3. [Pyquery](https://requests.readthedocs.io/en/master/)
+4. [Selenium](https://pyquery.readthedocs.io/en/latest/api.html)
+5. [Pandas](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)
+
+
 ## Websites
 0. [Quotes to Scrape](https://quotes.toscrape.com/)
 1. [Glassdoor](https://www.glassdoor.com/Reviews/IBM-Egypt-Reviews-EI_IE354.0,3_IL.4,9_IN69.htm)
