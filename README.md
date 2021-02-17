@@ -1,6 +1,5 @@
 # Scraper School
 ### **This is the complete guide to know how to scrape almost any website**
-
 ## Prerequisites
 1. Basic HTML
 2. Basic Python
