@@ -1,4 +1,6 @@
 # Scraper_School
+this is the complete guide to know how to scrape almost any website
+
 ## Websites
 0. [Quotes to Scrape](https://quotes.toscrape.com/)
 1. [Glassdoor](https://www.glassdoor.com/Reviews/IBM-Egypt-Reviews-EI_IE354.0,3_IL.4,9_IN69.htm)
