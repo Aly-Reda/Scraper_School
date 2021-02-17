@@ -1,5 +1,5 @@
 # Scraper_School
-this is the complete guide to know how to scrape almost any website
+**this is the complete guide to know how to scrape almost any website**
 
 ## Websites
 0. [Quotes to Scrape](https://quotes.toscrape.com/)
