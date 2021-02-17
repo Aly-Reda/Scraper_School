@@ -1,4 +1,5 @@
 # Scraper_School
+0- [Quotes to Scrape](https://quotes.toscrape.com/)
 1- [Indeed](https://uk.indeed.com/cyber-AND-security-jobs-in-London,-Greater-London)
 2- [Glassdoor](https://www.glassdoor.com/Reviews/IBM-Egypt-Reviews-EI_IE354.0,3_IL.4,9_IN69.htm)
 3- [Elmenus](https://www.elmenus.com/)
